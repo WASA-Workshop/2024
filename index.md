@@ -50,7 +50,10 @@ Papers need to be submitted electronically via [EasyChair](https://easychair.org
 ## Important Dates
 All dates are AoE.
 
-TBA
+**Paper submission**: February 18, 2024\
+**Paper notification**: March 17, 2024\
+**Camera-ready workshop papers due**: March 31, 2024\
+**Workshop dates**: June 4-5, 2024
 
 ## Program
 
