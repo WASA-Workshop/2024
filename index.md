@@ -67,9 +67,21 @@ TBA
 **Alessio Bucaioni**, Mälardalen University, Västerås, Sweden
 
 
-### Program Committee (tentative)
+### Program Committee
 
-TBA
+Klaus Becker, Continental, Germany\
+Christian Berger, University of Gothenburg, Sweden\
+Darko Durisic, Volvo Cars, Sweden\
+Thomas Galla, Elektrobit, Germany\
+Philipp Obergfell, BMW Group, Germany\
+Ramesh S, General Motors, USA\
+Miroslaw Staron, University of Gothenburg, Sweden\
+Mark van den Brand, Eindhoven University of Technology, The Netherlands\
+Andreas Vogelsang, University of Cologne, Germany\
+Sujit Kumar Chakrabarti, IIIT-B (International Institute of Information Technology Bangalore), India\
+Aditya A. Paranjape, TCS Research, India\
+Elena Lisova, VCE, Sweden\
+Predrag Filipovikj, Scania, Sweden
 
 ## History
 
