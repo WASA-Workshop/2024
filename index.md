@@ -61,7 +61,7 @@ This year's WASA will be in conjunction with FAACS 2024 ([8th International Work
 
 | Session | Time | Paper/Keynote |
 | --- | --- | --- |
-| Morning&nbsp;1   | 09:30&nbsp;-&nbsp;09:45	| Opening | Hybrid |
+| Morning&nbsp;1   | 09:30&nbsp;-&nbsp;09:45	| **Opening** |
 |             | 09:45 - 10:30	| **Keynote:** _Evaluating Architectural Quality in the Cloud Era_ by Davide Taibi, University of Oulu	|
 |             | 10:30 - 10:55	| _MoCoRe - A Generic Model-Driven Composition and Rule-Based Refinement Framework_ by Moritz Gstür, Yves R. Kirschner, Snigdha Singh and Anne Koziolek, Karlsruhe Institute of Technology, Germany |
 |             | 11:00 - 11:30 | **Coffee Break** |
