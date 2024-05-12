@@ -57,7 +57,7 @@ All dates are AoE.
 
 ## Program
 
-TBA
+This year's WASA will be in conjunction with FAACS 2024 ([8th International Workshop on Formal Approaches for Advanced Computing Systems](https://faacs-workshop.github.io/2024/)) and QUALIFIER 2024 ([2nd International Workshop on Quality in Software Architecture](https://qualifier-workshop.github.io))
 
 ## Committees
 
