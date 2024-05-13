@@ -53,7 +53,7 @@ All dates are AoE.
 **Paper submission**: February 18, 2024\
 **Paper notification**: March 17, 2024\
 **Camera-ready workshop papers due**: March 31, 2024\
-**Workshop dates**: June 4-5, 2024
+**Workshop dates**: June 4, 2024
 
 ## Program
 
@@ -66,7 +66,7 @@ This year's WASA will be in conjunction with FAACS 2024 ([8th International Work
 |             | 10:30 - 10:55	| _MoCoRe - A Generic Model-Driven Composition and Rule-Based Refinement Framework_ by Moritz Gstür, Yves R. Kirschner, Snigdha Singh and Anne Koziolek, Karlsruhe Institute of Technology, Germany |
 |             | 11:00 - 11:30 | **Coffee Break** |
 | Morning&nbsp;2   | 11:30 - 11:55	| _Refactoring of a Microservices Project driven by Architectural Smell Detection_ by Paolo Bacchiega, Davide Rusconi, Paolo Mereghetti and Francesca Arcelli Fontana, University of Milano - Bicocca and Tech Gap Italia s.r.l., Italy |
-|             | 11:55 - 12:40	| **Keynote:** TBA by Bert de Jonge, Verum |
+|             | 11:55 - 12:40	| **Keynote:** _Federate Software Defined Vehicle_ by Rutger van Beusekom, CTO Verum |
 |             | 12:40 - 13:05	| _Comparing Programming Language Models for Design Pattern Recognition_ by Sushant Kumar Pandey, Miroslaw Staron, Jennifer Horkoff, Mirosław Ochodek, and Darko Durisic |
 |             | 13:00 - 14:00 | **Lunch Break** |
 | Afternoon&nbsp;1	| 14:00 - 14:25	| _A MBSE framework for the design and analysis of complex automotive systems using SysML and PCE_ by Tirtha Kaloor and Ion Barosan |
