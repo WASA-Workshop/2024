@@ -70,7 +70,7 @@ This year's WASA will be in conjunction with FAACS 2024 ([8th International Work
 |             | 12:40 - 13:05	| _Comparing Programming Language Models for Design Pattern Recognition_ by Sushant Kumar Pandey, Miroslaw Staron, Jennifer Horkoff, Mirosław Ochodek, and Darko Durisic |
 |             | 13:00 - 14:00 | **Lunch Break** |
 | Afternoon&nbsp;1	| 14:00 - 14:25	| _A MBSE framework for the design and analysis of complex automotive systems using SysML and PCE_ by Tirtha Kaloor and Ion Barosan |
-|             | 14:25 - 14:55	| **Invited Talk:** _Complex system of systems and Digital Twins_ by Vinay Kulkarni, Tata Consultancy Services, Pune, India |
+|             | 14:25 - 14:55	| **Invited Talk:** _Complex system of systems and Digital Twins_ by Vinay Kulkarni, TCS Research, Pune, India |
 |             | 14:55 - 15:25	| **Invited Talk:** _Two Approaches to V&V of Model Driven Embedded Software_ by Sujit Kumar Chakrabarti, International Institute of Information Technology, Bangalore, India |
 |             |	15:30 - 16:00	| **Coffee Break** |
 | Afternoon&nbsp;2	| 16:00 - 16:25	| _Optimal Mapping of Workflows Using Serverless Architecture in a Multi-Cloud Environment_ by Manju Ramesh, Chetan Phalak, Dheeraj Chahal and Rekha Singhal, TCS Research, Mumbai, India |
